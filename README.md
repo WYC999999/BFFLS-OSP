@@ -1,10 +1,12 @@
-# 姓名：平浩恩
-> [!NOTE]
-> 他就是鸡丁仙人
-## 别名：丨口心 拼好恩 乒豪蒽 鮃郝摁 PinHorn HinPorn 鸡丁仙人
-> [!WARNING]
-> 以下是鸡丁仙人真容
+# 原神
+## 《原神》是由米哈游开发的动作角色扮演游戏，于2020年9月登陆Microsoft Windows、Android、iOS、PlayStation 4，2021年4月在PlayStation 5上线。
+## 游戏具有动漫风格的开放世界环境，采用免费游玩和内购制抽卡的游戏模式。游戏剧情于虚构世界的提瓦特大陆上展开，该世界分成七个国家，每个国家分别以一种元素为主题，并由对应元素的神明所分管。游戏剧情的主角为“旅行者”，是一对在无数个世界中旅行的兄妹，因遭遇陌生神明阻拦在提瓦特被迫分离。玩家将扮演旅行者，为了寻找自己失散的唯一血亲，并与派蒙一同游历七国。
+![Genshin_Impact](https://github.com/user-attachments/assets/f651892d-98ed-4827-b061-62f90fbb76b9)
 
-![001](https://github.com/user-attachments/assets/8b5a72bb-39c3-4f90-a7e5-4be8b2c031b9)
-![002](https://github.com/user-attachments/assets/ca083521-2d56-4b43-8b9d-a4c35996a954)
-![003](https://github.com/user-attachments/assets/2bf35a6b-dfc4-402f-8a48-39727c9136c0)
+# 埃尔登法环
+## 《艾尔登法环》（日语：エルデンリング，英语：Elden Ring）是一款由FromSoftware开发，万代南梦宫娱乐发行的魂系动作角色扮演游戏。本作是由游戏制作人宫崎英高与奇幻小说家乔治·R·R·马丁共同创作。游戏于2022年2月25日发行，有PS4、PS5、Windows、Xbox One、Xbox Series X/S等版本，并计划于2025年发售Nintendo Switch 2版本。而DLC《艾尔登法环 黄金树幽影》（Elden Ring Shadow of the Erdtree)则在2024 年 6 月 21 日正式推出，登上 PC、PS4、PS5、Xbox One、Xbox Series X/S 等平台。本作拥有魂类游戏固有的高难度关卡、开放世界、无指引探索、多重结局、多种职业等游戏特点。截至2025年4月29日，本作全球销量已突破3000万套。
+<img width="1200" height="1600" alt="Latest" src="https://github.com/user-attachments/assets/0dcc3fd2-1266-4689-90ef-5f9d8a72caa1" />
+
+# 暗区突围
+## 《暗区突围》是由腾讯魔方工作室群开发的第一人称射击类手游。该游戏于2021年8月17日在进行了先锋测试，于2022年7月13日正式公测。
+## 游戏以从暗区撤离并收集物资满载而归作为最终目的，带出的战利品可以存储在仓库中，又可以出售用以换取游戏金钱。
