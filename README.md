@@ -2,11 +2,3 @@
 > [!NOTE]
 > 他就是鸡丁仙人
 ## 别名：丨口心 干土大 T口口 拼好恩 乒豪蒽 鮃郝摁 频昊恩 趴会儿 鸡丁仙人 暗区仙人 使命仙人 法环仙人 足球仙人 PinHorn HinPorn 
-> [!WARNING]
-> 以下是鸡丁仙人真容
-
-![001](https://github.com/user-attachments/assets/8b5a72bb-39c3-4f90-a7e5-4be8b2c031b9)
-![002](https://github.com/user-attachments/assets/ca083521-2d56-4b43-8b9d-a4c35996a954)
-![003](https://github.com/user-attachments/assets/2bf35a6b-dfc4-402f-8a48-39727c9136c0)
-![004](https://github.com/user-attachments/assets/9c562474-77e7-4854-87c4-bed4dd7f5d3f)
-![005](https://github.com/user-attachments/assets/b50ac0b6-eb6f-4ff5-8249-60aafd29323e)
