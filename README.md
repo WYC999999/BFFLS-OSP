@@ -1,4 +1,5 @@
-### 北京市丰台区外国语学校开源项目仓库（BFFLS-OSR）紧急状态托管委员会
+# 北京市丰台区外国语学校开源项目仓库紧急状态托管委员会
+## Beijing Fengtai Foreign Language School Open Source Repository Emergency Custody Committee（BFFLS-OSR ECC）
 
 **版本号**：1.0  
 **生效日期**：2025年11月21日  
